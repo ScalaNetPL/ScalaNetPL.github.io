@@ -4,7 +4,7 @@
   <title><![CDATA[scala.net.pl]]></title>
   <link href="http://scalanetpl.github.io/atom.xml" rel="self"/>
   <link href="http://scalanetpl.github.io/"/>
-  <updated>2015-01-04T14:40:58+01:00</updated>
+  <updated>2015-01-04T14:48:12+01:00</updated>
   <id>http://scalanetpl.github.io/</id>
   <author>
     <name><![CDATA[scala.net.pl team]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Another Test Post]]></title>
+    <link href="http://scalanetpl.github.io/blog/2015/01/04/another-test-post/"/>
+    <updated>2015-01-04T14:45:54+01:00</updated>
+    <id>http://scalanetpl.github.io/blog/2015/01/04/another-test-post</id>
+    <content type="html"><![CDATA[<p>Prosimy o wszelkie sugestie i komentarze.</p>
+
+<!-- more -->
+
+
+<p>Już niedługo nowy design i logo.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lorem Ipsum]]></title>
